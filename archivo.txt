@@ -7,3 +7,7 @@ Este es el segundo cambio del archivo
 --Contenido 3
 
 Este es el tercer cambio del archivo
+
+--Contenido 4
+
+Este es el cuarto cambio del archivo
