@@ -1,1 +1,5 @@
 Este es el contenido inicial del archivo
+
+--Contenido 2
+
+Este es el segundo cambio del archivo
